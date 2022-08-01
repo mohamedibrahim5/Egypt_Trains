@@ -1,0 +1,6 @@
+framework module Pods_trains_trainsUITests {
+  umbrella header "Pods-trains-trainsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
